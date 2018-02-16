@@ -1,0 +1,75 @@
+2018-02-08 00:49:45,784 INFO [com.GenericLib.Amazon.Log:44] - User entered Iphone product  
+  2018-02-08 00:49:54,604 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Search button  
+  2018-02-08 00:49:59,107 INFO [com.GenericLib.Amazon.Log:44] - Sorted the results by Price-ascending order 
+  2018-02-08 00:50:03,618 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Iphone title  
+  2018-02-08 00:50:09,556 INFO [com.GenericLib.Amazon.Log:44] - Product title is :Apple iPhone 4S (Black, 16GB) 
+  2018-02-08 00:50:09,724 INFO [com.GenericLib.Amazon.Log:44] - Product price is :12,999.00 
+  2018-02-08 00:50:13,102 INFO [com.GenericLib.Amazon.Log:44] - User clicked on AddCart button  
+  2018-02-08 00:52:37,939 INFO [com.GenericLib.Amazon.Log:44] - User entered Iphone product  
+  2018-02-08 00:52:47,018 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Search button  
+  2018-02-08 00:52:51,471 INFO [com.GenericLib.Amazon.Log:44] - Sorted the results by Price-ascending order 
+  2018-02-08 00:52:55,973 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Iphone title  
+  2018-02-08 00:53:01,672 INFO [com.GenericLib.Amazon.Log:44] - Product title is :Apple iPhone 4S (Black, 16GB) 
+  2018-02-08 00:53:02,061 INFO [com.GenericLib.Amazon.Log:44] - Product price is :12,999.00 
+  2018-02-08 00:53:05,561 INFO [com.GenericLib.Amazon.Log:44] - User clicked on AddCart button  
+  2018-02-08 10:33:49,937 INFO [com.GenericLib.Amazon.Log:44] - User entered Iphone product  
+  2018-02-08 10:33:58,253 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Search button  
+  2018-02-08 10:34:02,952 INFO [com.GenericLib.Amazon.Log:44] - Sorted the results by Price-ascending order 
+  2018-02-08 10:34:07,599 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Iphone title  
+  2018-02-08 10:34:13,196 INFO [com.GenericLib.Amazon.Log:44] - Product title is :Apple iPhone 4S (Black, 8GB) 
+  2018-02-08 10:34:13,362 INFO [com.GenericLib.Amazon.Log:44] - Product price is :11,999.00 
+  2018-02-08 10:34:16,918 INFO [com.GenericLib.Amazon.Log:44] - User clicked on AddCart button  
+  2018-02-08 10:40:10,506 INFO [com.GenericLib.Amazon.Log:44] - User entered Iphone product  
+  2018-02-08 10:40:31,611 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Search button  
+  2018-02-08 10:40:36,210 INFO [com.GenericLib.Amazon.Log:44] - Sorted the results by Price-ascending order 
+  2018-02-08 10:40:40,717 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Iphone title  
+  2018-02-08 10:40:46,829 INFO [com.GenericLib.Amazon.Log:44] - Product title is :Apple iPhone 4S (Black, 8GB) 
+  2018-02-08 10:40:46,985 INFO [com.GenericLib.Amazon.Log:44] - Product price is :11,999.00 
+  2018-02-08 10:40:47,382 INFO [com.GenericLib.Amazon.Log:44] - User clicked on AddCart button  
+  2018-02-08 10:43:48,115 INFO [com.GenericLib.Amazon.Log:44] - User entered Iphone product  
+  2018-02-08 10:43:56,993 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Search button  
+  2018-02-08 10:44:01,646 INFO [com.GenericLib.Amazon.Log:44] - Sorted the results by Price-ascending order 
+  2018-02-08 10:44:06,210 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Iphone title  
+  2018-02-08 10:44:12,596 INFO [com.GenericLib.Amazon.Log:44] - Product title is :Apple iPhone 4S (Black, 8GB) 
+  2018-02-08 10:44:12,778 INFO [com.GenericLib.Amazon.Log:44] - Product price is :11,999.00 
+  2018-02-08 10:44:16,534 INFO [com.GenericLib.Amazon.Log:44] - User clicked on AddCart button  
+  2018-02-08 10:44:24,279 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Cart icon  
+  2018-02-08 10:44:28,375 INFO [com.GenericLib.Amazon.Log:44] - Apple iPhone 4S (Black, 8GB) 
+  2018-02-08 10:44:28,400 INFO [com.GenericLib.Amazon.Log:44] - Sucessfully verified your product title   
+  2018-02-08 10:44:28,443 INFO [com.GenericLib.Amazon.Log:44] - Skyline Casual/Office Laptop Backpack Bag- S16 -Grey 
+  2018-02-08 10:44:28,508 INFO [com.GenericLib.Amazon.Log:44] - POLE STAR BIG 4 compartment 40 Lt Black Blue laptop/Casual /Travel Backpack School Bag 
+  2018-02-08 10:44:28,571 INFO [com.GenericLib.Amazon.Log:44] - Apple iPhone 4S (Black, 16GB) 
+  2018-02-08 10:44:28,682 INFO [com.GenericLib.Amazon.Log:44] - Price list is 63,415.00 
+  2018-02-08 10:44:28,757 INFO [com.GenericLib.Amazon.Log:44] - Price list is 30,000.00 
+  2018-02-08 10:44:28,831 INFO [com.GenericLib.Amazon.Log:44] - Price list is 11,999.00 
+  2018-02-08 10:44:28,856 INFO [com.GenericLib.Amazon.Log:44] - Sucessfully verified your product price  
+  2018-02-08 10:44:28,900 INFO [com.GenericLib.Amazon.Log:44] - Price list is 945.00 
+  2018-02-08 10:44:28,976 INFO [com.GenericLib.Amazon.Log:44] - Price list is 475.00 
+  2018-02-08 10:44:29,070 INFO [com.GenericLib.Amazon.Log:44] - Price list is 12,999.00 
+  2018-02-08 10:44:29,193 INFO [com.GenericLib.Amazon.Log:44] - Price list is 63,415.00 
+  2018-02-08 11:05:50,105 INFO [com.GenericLib.Amazon.Log:44] - User given name 
+  2018-02-08 11:05:54,457 INFO [com.GenericLib.Amazon.Log:44] - User given mobile No 
+  2018-02-08 11:05:58,947 INFO [com.GenericLib.Amazon.Log:44] - User given New Password 
+  2018-02-08 11:06:19,930 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Continue button 
+  2018-02-08 11:15:28,429 INFO [com.GenericLib.Amazon.Log:44] - User entered Iphone product  
+  2018-02-08 11:15:36,081 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Search button  
+  2018-02-08 11:15:40,788 INFO [com.GenericLib.Amazon.Log:44] - Sorted the results by Price-ascending order 
+  2018-02-08 11:15:45,389 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Iphone title  
+  2018-02-08 11:15:51,806 INFO [com.GenericLib.Amazon.Log:44] - Product title is :Apple iPhone 4S (Black, 8GB) 
+  2018-02-08 11:15:52,065 INFO [com.GenericLib.Amazon.Log:44] - Product price is :11,999.00 
+  2018-02-08 11:15:54,068 INFO [com.GenericLib.Amazon.Log:44] - User clicked on AddCart button  
+  2018-02-08 11:16:01,279 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Cart icon  
+  2018-02-08 11:16:05,405 INFO [com.GenericLib.Amazon.Log:44] - Sucessfully verified your product title   
+  2018-02-08 11:16:05,742 INFO [com.GenericLib.Amazon.Log:44] - Sucessfully verified your product price  
+  2018-02-08 11:19:07,088 INFO [com.GenericLib.Amazon.Log:44] - User entered Iphone product  
+  2018-02-08 11:19:23,043 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Search button  
+  2018-02-08 11:19:27,737 INFO [com.GenericLib.Amazon.Log:44] - Sorted the results by Price-ascending order 
+  2018-02-08 11:19:32,241 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Iphone title  
+  2018-02-08 11:19:38,698 INFO [com.GenericLib.Amazon.Log:44] - Product title is :Apple iPhone 4S (Black, 8GB) 
+  2018-02-08 11:19:38,941 INFO [com.GenericLib.Amazon.Log:44] - Product price is :11,999.00 
+  2018-02-08 11:19:39,300 INFO [com.GenericLib.Amazon.Log:44] - User clicked on AddCart button  
+  2018-02-08 11:19:50,407 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Cart icon  
+  2018-02-08 11:19:54,544 INFO [com.GenericLib.Amazon.Log:44] - Sucessfully verified your product title   
+  2018-02-08 11:19:54,915 INFO [com.GenericLib.Amazon.Log:44] - Sucessfully verified your product price  
+  2018-02-08 11:20:04,319 INFO [com.GenericLib.Amazon.Log:44] - User clicked on Signout link  
+  
